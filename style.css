@@ -5,9 +5,18 @@ body {
 
 h1 {
 color: blue;
+text-align: center;
+letter-spacing: 2px;
 }
 
 h3 {
 color: teal;
+text-align: center;
+}
+
+p {
+  font-family: cursive;
+  color: black;
+  font-size: 20px;
 }
  
